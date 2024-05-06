@@ -1,0 +1,1910 @@
+[CustomCards]
+	[    {
+	        "name": "CW01 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW01%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW02 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW02%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW03 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW03%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW04 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW04%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW05 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW05%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW06 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW06%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW07 — 4 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW07%20%E2%80%94%204%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW09 — 6 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW09%20%E2%80%94%206%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW11 — Positive Aura",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW11%20%E2%80%94%20Positive%20Aura.png"
+	        }
+	    },
+	    {
+	        "name": "CW12 — Destroy Creature",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW12%20%E2%80%94%20Destroy%20Creature.png"
+	        }
+	    },
+	    {
+	        "name": "CW13 — Combat Trick",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW13%20%E2%80%94%20Combat%20Trick.png"
+	        }
+	    },
+	    {
+	        "name": "CU01 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU01%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU02 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU02%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU03 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU03%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU04 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU04%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU05 — 4 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU05%20%E2%80%94%204%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU06 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU06%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU07 — 6 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU07%20%E2%80%94%206%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CU08 — Hard Counter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU08%20%E2%80%94%20Hard%20Counter.png"
+	        }
+	    },
+	    {
+	        "name": "CU09 — Soft Counter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU09%20%E2%80%94%20Soft%20Counter.png"
+	        }
+	    },
+	    {
+	        "name": "CU10 — Lockdown",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU10%20%E2%80%94%20Lockdown.png"
+	        }
+	    },
+	    {
+	        "name": "CU11 — Card Draw",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU11%20%E2%80%94%20Card%20Draw.png"
+	        }
+	    },
+	    {
+	        "name": "CU12 — Bounce",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU12%20%E2%80%94%20Bounce.png"
+	        }
+	    },
+	    {
+	        "name": "CU13 — Disruption",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU13%20%E2%80%94%20Disruption.png"
+	        }
+	    },
+	    {
+	        "name": "CB01 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB01%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB02 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB02%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB03 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB03%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB04 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB04%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB05 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB05%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB06 — 4 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB06%20%E2%80%94%204%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB07 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB07%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB08 — 6+ MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB08%20%E2%80%94%206+%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CB10 — Kill Small",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB10%20%E2%80%94%20Kill%20Small.png"
+	        }
+	    },
+	    {
+	        "name": "CB11 — Edict",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB11%20%E2%80%94%20Edict.png"
+	        }
+	    },
+	    {
+	        "name": "CB12 — Return from Grave to Hand",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB12%20%E2%80%94%20Return%20from%20Grave%20to%20Hand.png"
+	        }
+	    },
+	    {
+	        "name": "CB13 — Draw Cards",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB13%20%E2%80%94%20Draw%20Cards.png"
+	        }
+	    },
+	    {
+	        "name": "CR01 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR01%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR02 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR02%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR03 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR03%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR04 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR04%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR05 — 4 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR05%20%E2%80%94%204%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR06 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR06%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR07 — 5+ MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR07%20%E2%80%94%205+%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CR08 — Efficient Direct Damage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR08%20%E2%80%94%20Efficient%20Direct%20Damage.png"
+	        }
+	    },
+	    {
+	        "name": "CR09 — Direct Damage",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR09%20%E2%80%94%20Direct%20Damage.png"
+	        }
+	    },
+	    {
+	        "name": "CR10 — Steal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR10%20%E2%80%94%20Steal.png"
+	        }
+	    },
+	    {
+	        "name": "CR11 — Cantrip",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR11%20%E2%80%94%20Cantrip.png"
+	        }
+	    },
+	    {
+	        "name": "CR12 — Positive Equip",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR12%20%E2%80%94%20Positive%20Equip.png"
+	        }
+	    },
+	    {
+	        "name": "CR13 — Combat Trick",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR13%20%E2%80%94%20Combat%20Trick.png"
+	        }
+	    },
+	    {
+	        "name": "CG01 — 1 MV",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG01%20%E2%80%94%201%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG02 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG02%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG03 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG03%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG04 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG04%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG05 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG05%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG06 — 4 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG06%20%E2%80%94%204%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG07 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG07%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG10 — Filter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG10%20%E2%80%94%20Filter.png"
+	        }
+	    },
+	    {
+	        "name": "CG09 — Fight and Bite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG09%20%E2%80%94%20Fight%20and%20Bite.png"
+	        }
+	    },
+	    {
+	        "name": "CG08 — 6 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG08%20%E2%80%94%206%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CG11 — Positive Aura",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG11%20%E2%80%94%20Positive%20Aura.png"
+	        }
+	    },
+	    {
+	        "name": "CG12 — Anti Fly",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG12%20%E2%80%94%20Anti%20Fly.png"
+	        }
+	    },
+	    {
+	        "name": "CG13 — Ramp",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG13%20%E2%80%94%20Ramp.png"
+	        }
+	    },
+	    {
+	        "name": "CM03",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{G}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CM03.png"
+	        }
+	    },
+	    {
+	        "name": "CM05",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{G}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CM05.png"
+	        }
+	    },
+	    {
+	        "name": "CM01",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CM01.png"
+	        }
+	    },
+	    {
+	        "name": "CM02",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CM02.png"
+	        }
+	    },
+	    {
+	        "name": "CM04",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{R}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CM04.png"
+	        }
+	    },
+	    {
+	        "name": "CA01 — 2 MV",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CA01%20%E2%80%94%202%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CA02 — 3 MV",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CA02%20%E2%80%94%203%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CA03 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CA03%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CA04 — Equipment",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CA04%20%E2%80%94%20Equipment.png"
+	        }
+	    },
+	    {
+	        "name": "CA05 — Mana",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CA05%20%E2%80%94%20Mana.png"
+	        }
+	    },
+	    {
+	        "name": "CL01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CL01.png"
+	        }
+	    },
+	    {
+	        "name": "CL02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CL02.png"
+	        }
+	    },
+	    {
+	        "name": "CL03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CL03.png"
+	        }
+	    },
+	    {
+	        "name": "CL04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CL04.png"
+	        }
+	    },
+	    {
+	        "name": "CL05",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CL05.png"
+	        }
+	    },
+	    {
+	        "name": "UW01",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW01.png"
+	        }
+	    },
+	    {
+	        "name": "UW02",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW02.png"
+	        }
+	    },
+	    {
+	        "name": "UW03",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW03.png"
+	        }
+	    },
+	    {
+	        "name": "UW04",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW04.png"
+	        }
+	    },
+	    {
+	        "name": "UW05",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW05.png"
+	        }
+	    },
+	    {
+	        "name": "UW06",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW06.png"
+	        }
+	    },
+	    {
+	        "name": "UW07",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW07.png"
+	        }
+	    },
+	    {
+	        "name": "UW08 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW08%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UW09 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UW09%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU01",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU01.png"
+	        }
+	    },
+	    {
+	        "name": "UU02",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU02.png"
+	        }
+	    },
+	    {
+	        "name": "UU03",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU03.png"
+	        }
+	    },
+	    {
+	        "name": "UU04",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU04.png"
+	        }
+	    },
+	    {
+	        "name": "UU05",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU05.png"
+	        }
+	    },
+	    {
+	        "name": "UU06 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU07 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU07%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU08 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU08%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU09 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UU09%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB01",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB01.png"
+	        }
+	    },
+	    {
+	        "name": "UB02",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB02.png"
+	        }
+	    },
+	    {
+	        "name": "UB03",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB03.png"
+	        }
+	    },
+	    {
+	        "name": "UB04",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB04.png"
+	        }
+	    },
+	    {
+	        "name": "UB05",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB05.png"
+	        }
+	    },
+	    {
+	        "name": "UB06 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB07 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB07%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB08 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB08%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB09 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UB09%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR01",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR01.png"
+	        }
+	    },
+	    {
+	        "name": "UR02",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR02.png"
+	        }
+	    },
+	    {
+	        "name": "UR03",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR03.png"
+	        }
+	    },
+	    {
+	        "name": "UR04",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR04.png"
+	        }
+	    },
+	    {
+	        "name": "UR05",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR05.png"
+	        }
+	    },
+	    {
+	        "name": "UR06 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR07 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR07%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR08 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR08%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR09 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UR09%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG01",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG01.png"
+	        }
+	    },
+	    {
+	        "name": "UG02",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG02.png"
+	        }
+	    },
+	    {
+	        "name": "UG03",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG03.png"
+	        }
+	    },
+	    {
+	        "name": "UG04",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG04.png"
+	        }
+	    },
+	    {
+	        "name": "UG05",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG05.png"
+	        }
+	    },
+	    {
+	        "name": "UG06",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG06.png"
+	        }
+	    },
+	    {
+	        "name": "UG07",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG07.png"
+	        }
+	    },
+	    {
+	        "name": "UG08",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG08.png"
+	        }
+	    },
+	    {
+	        "name": "UG09 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UG09%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UA01",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UA01.png"
+	        }
+	    },
+	    {
+	        "name": "UA02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UA02.png"
+	        }
+	    },
+	    {
+	        "name": "UA03 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UA03%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UA04 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UA04%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RW01",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW01.png"
+	        }
+	    },
+	    {
+	        "name": "RW02",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW02.png"
+	        }
+	    },
+	    {
+	        "name": "RW03",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW03.png"
+	        }
+	    },
+	    {
+	        "name": "RW04 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW04%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RW05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RU01",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU01.png"
+	        }
+	    },
+	    {
+	        "name": "RU02",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU02.png"
+	        }
+	    },
+	    {
+	        "name": "RU03",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU03.png"
+	        }
+	    },
+	    {
+	        "name": "RU04",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU04.png"
+	        }
+	    },
+	    {
+	        "name": "RU05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RU06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RU06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RB01",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB01.png"
+	        }
+	    },
+	    {
+	        "name": "RB02",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB02.png"
+	        }
+	    },
+	    {
+	        "name": "RB03",
+	        "rarity": "rare",
+	        "mana_cost": "{14}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB03.png"
+	        }
+	    },
+	    {
+	        "name": "RB04",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB04.png"
+	        }
+	    },
+	    {
+	        "name": "RB05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RB06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RB06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RR01",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR01.png"
+	        }
+	    },
+	    {
+	        "name": "RR02",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR02.png"
+	        }
+	    },
+	    {
+	        "name": "RR03",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR03.png"
+	        }
+	    },
+	    {
+	        "name": "RR04 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR04%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RR05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RR06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RR06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RG01",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG01.png"
+	        }
+	    },
+	    {
+	        "name": "RG02",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG02.png"
+	        }
+	    },
+	    {
+	        "name": "RG03",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG03.png"
+	        }
+	    },
+	    {
+	        "name": "RG04 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG04%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RG05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RM01",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RM01.png"
+	        }
+	    },
+	    {
+	        "name": "RM02",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RM02.png"
+	        }
+	    },
+	    {
+	        "name": "RM03",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RM03.png"
+	        }
+	    },
+	    {
+	        "name": "RM04",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RM04.png"
+	        }
+	    },
+	    {
+	        "name": "RM05",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RM05.png"
+	        }
+	    },
+	    {
+	        "name": "RZ01",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G/W}/U",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ01.png"
+	        }
+	    },
+	    {
+	        "name": "RZ02",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R/G}/W",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ02.png"
+	        }
+	    },
+	    {
+	        "name": "RZ03",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W/U}/B",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ03.png"
+	        }
+	    },
+	    {
+	        "name": "RZ04",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B/R}/G",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ04.png"
+	        }
+	    },
+	    {
+	        "name": "RZ05",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U/B}/R",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ05.png"
+	        }
+	    },
+	    {
+	        "name": "RA01 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RA01%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RA02 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RA02%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL01 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UL01%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL02 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UL02%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL03 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UL03%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL04 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UL04%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL05 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UL05%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "MW01",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MW01.png"
+	        }
+	    },
+	    {
+	        "name": "MU01",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MU01.png"
+	        }
+	    },
+	    {
+	        "name": "MB01",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MB01.png"
+	        }
+	    },
+	    {
+	        "name": "MR01",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MR01.png"
+	        }
+	    },
+	    {
+	        "name": "MG01",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MG01.png"
+	        }
+	    },
+	    {
+	        "name": "MM01",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{W}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MM01.png"
+	        }
+	    },
+	    {
+	        "name": "MM02",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MM02.png"
+	        }
+	    },
+	    {
+	        "name": "MM03",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{G}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MM03.png"
+	        }
+	    },
+	    {
+	        "name": "MM04",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MM04.png"
+	        }
+	    },
+	    {
+	        "name": "MM05",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{B}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MM05.png"
+	        }
+	    },
+	    {
+	        "name": "MA02 Noncreature",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MA02%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "MA01 Noncreature",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/MA01%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UM05 — Aggro",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UM05%20%E2%80%94%20Aggro.png"
+	        }
+	    },
+	    {
+	        "name": "UM04 — Graveyard/Reanimator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UM04%20%E2%80%94%20Graveyard/Reanimator.png"
+	        }
+	    },
+	    {
+	        "name": "UM01 — Second Draw",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UM01%20%E2%80%94%20Second%20Draw.png"
+	        }
+	    },
+	    {
+	        "name": "UM03 — Tapped/Attacking Creatures",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UM03%20%E2%80%94%20Tapped/Attacking%20Creatures.png"
+	        }
+	    },
+	    {
+	        "name": "UM02 — Looting",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/UM02%20%E2%80%94%20Looting.png"
+	        }
+	    },
+	    {
+	        "name": "",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
+	        }
+	    },
+	    {
+	        "name": "",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
+	        }
+	    },
+	    {
+	        "name": "CW08 — 5 MV",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW08%20%E2%80%94%205%20MV.png"
+	        }
+	    },
+	    {
+	        "name": "CW10 — Small Removal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW10%20%E2%80%94%20Small%20Removal.png"
+	        }
+	    },
+	    {
+	        "name": "RW06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RW06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "CU14 — Positive Aura",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CU14%20%E2%80%94%20Positive%20Aura.png"
+	        }
+	    },
+	    {
+	        "name": "CB09 — Kill Anything",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB09%20%E2%80%94%20Kill%20Anything.png"
+	        }
+	    },
+	    {
+	        "name": "RG06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RG06%20Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "CW14 — Destroy Artichant",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CW14%20%E2%80%94%20Destroy%20Artichant.png"
+	        }
+	    },
+	    {
+	        "name": "CB14 — Positive Trick",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CB14%20%E2%80%94%20Positive%20Trick.png"
+	        }
+	    },
+	    {
+	        "name": "CR14 — No Block",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CR14%20%E2%80%94%20No%20Block.png"
+	        }
+	    },
+	    {
+	        "name": "CG14 — ArtifactEnchant Destroy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG14%20%E2%80%94%20ArtifactEnchant%20Destroy.png"
+	        }
+	    },
+	    {
+	        "name": "",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
+	        }
+	    },
+	    {
+	        "name": "",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
+	        }
+	    }
+	]
+	[CommonSlot(14)]
+		50 CW01 — 1 MV
+		50 CW02 — 1 MV
+		50 CW03 — 2 MV
+		50 CW04 — 2 MV
+		50 CW05 — 3 MV
+		50 CW06 — 3 MV
+		50 CW07 — 4 MV
+		50 CW09 — 6 MV
+		50 CW11 — Positive Aura
+		50 CW12 — Destroy Creature
+		50 CW13 — Combat Trick
+		50 CU01 — 1 MV
+		50 CU02 — 2 MV
+		50 CU03 — 3 MV
+		50 CU04 — 3 MV
+		50 CU05 — 4 MV
+		50 CU06 — 5 MV
+		50 CU07 — 6 MV
+		50 CU08 — Hard Counter
+		50 CU09 — Soft Counter
+		50 CU10 — Lockdown
+		50 CU11 — Card Draw
+		50 CU12 — Bounce
+		50 CU13 — Disruption
+		50 CB01 — 1 MV
+		50 CB02 — 2 MV
+		50 CB03 — 2 MV
+		50 CB04 — 3 MV
+		50 CB05 — 3 MV
+		50 CB06 — 4 MV
+		50 CB07 — 5 MV
+		50 CB08 — 6+ MV
+		50 CB10 — Kill Small
+		50 CB11 — Edict
+		50 CB12 — Return from Grave to Hand
+		50 CB13 — Draw Cards
+		50 CR01 — 1 MV
+		50 CR02 — 2 MV
+		50 CR03 — 2 MV
+		50 CR04 — 3 MV
+		50 CR05 — 4 MV
+		50 CR06 — 5 MV
+		50 CR07 — 5+ MV
+		50 CR08 — Efficient Direct Damage
+		50 CR09 — Direct Damage
+		50 CR10 — Steal
+		50 CR11 — Cantrip
+		50 CR12 — Positive Equip
+		50 CR13 — Combat Trick
+		50 CG01 — 1 MV
+		50 CG02 — 2 MV
+		50 CG03 — 2 MV
+		50 CG04 — 3 MV
+		50 CG05 — 3 MV
+		50 CG06 — 4 MV
+		50 CG07 — 5 MV
+		50 CG10 — Filter
+		50 CG09 — Fight and Bite
+		50 CG08 — 6 MV
+		50 CG11 — Positive Aura
+		50 CG12 — Anti Fly
+		50 CG13 — Ramp
+		50 CM03
+		50 CM05
+		50 CM01
+		50 CM02
+		50 CM04
+		50 CA01 — 2 MV
+		50 CA02 — 3 MV
+		50 CA03 — 5 MV
+		50 CA04 — Equipment
+		50 CA05 — Mana
+		50 CL01
+		50 CL02
+		50 CL03
+		50 CL04
+		50 CL05
+		50 
+		50 CW08 — 5 MV
+		50 CW10 — Small Removal
+		50 CU14 — Positive Aura
+		50 CB09 — Kill Anything
+		50 CW14 — Destroy Artichant
+		50 CB14 — Positive Trick
+		50 CR14 — No Block
+		50 CG14 — ArtifactEnchant Destroy
+		50 
+		50 
+	

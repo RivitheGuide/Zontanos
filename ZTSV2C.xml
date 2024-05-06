@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ZTS</name>
+      <longname>Zontanos</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breakdown — As long as you have discarded a card this turn, 1 MV gets +2/+1.</text>
+    </card>
+    <card>
+      <name>CW02 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink</text>
+    </card>
+    <card>
+      <name>CW03 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, 2 MV has first strike.</text>
+    </card>
+    <card>
+      <name>CW04 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{W}, {T}, Discard a card: Tap target creature and put a stun counter on it</text>
+    </card>
+    <card>
+      <name>CW05 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>CW06 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may exert 3 MV as it attacks. When you do, it gets +1/+1 and has flying until end of turn. (An exerted creature won’t untap during your next untap step.)</text>
+    </card>
+    <card>
+      <name>CW07 — 4 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>CW09 — 6 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>CW11 — Positive Aura</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.</text>
+    </card>
+    <card>
+      <name>CW12 — Destroy Creature</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature with power or toughness 4 or greater.
+Cycling 2W (2W, Discard this card: Draw a card.)
+When you cycle Destroy Creature, you may destroy target tapped creature.</text>
+    </card>
+    <card>
+      <name>CW13 — Combat Trick</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn. If it’s attacking, it has first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CU01 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Threshold —1 MV has +1/+1 and flying as long as seven or more cards are in your graveyard.</text>
+    </card>
+    <card>
+      <name>CU02 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CU03 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash</text>
+    </card>
+    <card>
+      <name>CU04 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your second card each turn, 3 MV gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CU05 — 4 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your second card each turn, put a +1/+1 counter on 4 MV.</text>
+    </card>
+    <card>
+      <name>CU06 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Flying
+Threshold — 5 MV can attack as though it didn’t have defender as long as seven or more cards are in your graveyard.</text>
+    </card>
+    <card>
+      <name>CU07 — 6 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+    </card>
+    <card>
+      <name>CU08 — Hard Counter</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature or planeswalker spell. If you’ve discarded a card this turn, you may draw a card.</text>
+    </card>
+    <card>
+      <name>CU09 — Soft Counter</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}.
+Threshold — If seven or more cards are in your graveyard, counter that spell instead.</text>
+    </card>
+    <card>
+      <name>CU10 — Lockdown</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature and put three stun counters on it.
+Cycling 1U (1U, Discard this card: Draw a card.)
+When you cycle Lockdown, tap target creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>CU11 — Card Draw</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard a card.
+Breakdown — If you’ve discarded a card this turn, draw three cards instead.</text>
+    </card>
+    <card>
+      <name>CU12 — Bounce</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CU13 — Disruption</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures your opponents control get -2/-0 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CB01 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Threshold — 1 MV gets +2/+2 and lifelink as long as seven or more cards are in your graveyard.</text>
+    </card>
+    <card>
+      <name>CB02 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Bloodrush — {B}, Discard 2 MV: Target attacking creature gets +1/+1 and gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>CB03 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodrush — {B}, Discard 2 MV: Target attacking creature gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CB04 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breakdown — You may cast 3 MV as though it had flash as long as you have discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>CB05 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breakdown — 3 MV has flying as long as you have discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>CB06 — 4 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>CB07 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodrush — 2B, Discard 5 MV: Target attacking creature gets +4/+4 until end of turn.</text>
+    </card>
+    <card>
+      <name>CB08 — 6+ MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+    </card>
+    <card>
+      <name>CB10 — Kill Small</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature if it has mana value 3 or less.
+Threshold — If seven or more cards are in your graveyard, destroy that creature instead.</text>
+    </card>
+    <card>
+      <name>CB11 — Edict</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a creature. Then, return a creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CB12 — Return from Grave to Hand</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Threshold — If seven or more cards are in your graveyard, return up to two target creature cards from your graveyard to your hand instead.</text>
+    </card>
+    <card>
+      <name>CB13 — Draw Cards</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then you lose 2 life.
+Threshold — If seven or more cards are in your graveyard, draw three cards and lose 3 life instead.</text>
+    </card>
+    <card>
+      <name>CR01 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as another creature you control is tapped, 1 MV gets +1/+1.</text>
+    </card>
+    <card>
+      <name>CR02 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+You may exert 2 MV as it attacks. When you do, it gets +2/+1 until end of turn. (An exerted creature won’t untap during your next untap step.)</text>
+    </card>
+    <card>
+      <name>CR03 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cycle another card, 2 MV deals 1 damage to each opponent.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CR04 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may exert 3 MV as it attacks. When you do, it gets +3/+0 and gains first strike until end of turn. (An exerted creature won’t untap during your next untap step.)</text>
+    </card>
+    <card>
+      <name>CR05 — 4 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Bloodrush — RR, Discard 4 MV: Target attacking creature gets +3/+3 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>CR06 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+As long as 5 MV is tapped, other tapped creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>CR07 — 5+ MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>CR08 — Efficient Direct Damage</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Efficient Direct Damage deals 2 damage to any target.
+Cycling 3R (3R, Discard this card: Draw a card.)
+When you cycle Efficient Direct Damage, it deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>CR09 — Direct Damage</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Direct Damage deals 1 damage to each of up to two targets. If you control a tapped creature, deal 2 damage to those targets instead.</text>
+    </card>
+    <card>
+      <name>CR10 — Steal</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap it. It gains haste and “When this creature attacks, exert it.” until end of turn. (That creature won’t untap during its controller’s next untap step.)</text>
+    </card>
+    <card>
+      <name>CR11 — Cantrip</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards. If you control a tapped creature, draw three cards instead.</text>
+    </card>
+    <card>
+      <name>CR12 — Positive Equip</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has “When this creature attacks, you may exert it. If you do, it gains first strike until end of turn.” (An exerted permanent won’t untap during your next untap step.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>CR13 — Combat Trick</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +1/+0 and first strike until end of turn.
+• Target creature gets +1/+0 and double strike until end of turn. Tap and exert it. (An exerted permanent won’t untap during your next untap step.)</text>
+    </card>
+    <card>
+      <name>CG01 — 1 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Threshold — 1 MV gets +1/+1 and has deathtouch as long as seven or more cards are in your graveyard.</text>
+    </card>
+    <card>
+      <name>CG02 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mill two cards: 2 MV gains reach until end of turn. Activate this only once per turn.</text>
+    </card>
+    <card>
+      <name>CG03 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodrush — {G}, Discard 2 MV: Target attacking creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG04 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may exert 3 MV as it attacks. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. (An exerted creature won’t untap during your next untap step.)</text>
+    </card>
+    <card>
+      <name>CG05 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Bloodrush — GG, Discard 3 MV: Target attacking creature gets +4/+2 and has trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CG06 — 4 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When 4 MV enters the battlefield, you may mill three cards. If you do, you may return a basic land card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>CG07 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may exert 5 MV as it attacks. When you do, it gains trample until end of turn. (An exerted creature won’t untap during your next untap step.)
+3GG: 5 MV gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG10 — Filter</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may mill three cards. Then return up to one creature card and up to one land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CG09 — Fight and Bite</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control.
+Threshold — If seven or more cards are in your graveyard, target creature you control deals damage equal to its power to target creature you don’t control, instead.</text>
+    </card>
+    <card>
+      <name>CG08 — 6 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>CG11 — Positive Aura</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+While enchanted creature is tapped, it has +1/+0 and trample.
+While enchanted creature is untapped, it has +0/+1 and reach.</text>
+    </card>
+    <card>
+      <name>CG12 — Anti Fly</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.</text>
+    </card>
+    <card>
+      <name>CG13 — Ramp</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may tap a creature you control.
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If you tapped a creature, that land enters untapped instead.</text>
+    </card>
+    <card>
+      <name>CM03</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>WRG</color>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When CM03 enters the battlefield, untap target creature or land you control.
+{2}, Exile CM03 from your hand: Target land gains “{T}: Add {R}, {G}, or {W}” until CM03 is cast from exile. You may cast CM03 for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CM05</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>UBG</color>
+        <manacost>3BGU</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When CM05 enters the battlefield, return target creature card from your graveyard to your hand.
+{2}, Exile CM05 from your hand: Target land gains “{T}: Add {B}, {G}, or {U}” until CM05 is cast from exile. You may cast CM05 for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CM01</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>WUB</color>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+{2}, Exile CM01 from your hand: Target land gains “{T}: Add {W}, {U}, or {B}” until CM01 is cast from exile. You may cast CM01 for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CM02</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>BRG</color>
+        <manacost>3BRG</manacost>
+        <cmc>6</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When CM02 enters the battlefield, you may distribute three +1/+1 counters between one, two, or three creatures.
+{2}, Exile CM02 from your hand: Target land gains “{T}: Add {B}, {R}, or {G}” until CM02 is cast from exile. You may cast CM02 for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CM04</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>WUR</color>
+        <manacost>2URW</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When CM04 enters the battlefield, you may discard up to two cards. If you do, draw that many cards.
+{2}, Exile CM04 from your hand: Target land gains “{T}: Add {U}, {R}, or {W}” until CM04 is cast from exile. You may cast CM04 for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CA01 — 2 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}</text>
+    </card>
+    <card>
+      <name>CA02 — 3 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When 3 MV enters the battlefield, scry 1. If a card entered your graveyard from anywhere this turn, scry 2 instead.</text>
+    </card>
+    <card>
+      <name>CA03 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+    </card>
+    <card>
+      <name>CA04 — Equipment</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, look at the top card of your library. If it’s a land card, you may put it onto the battlefield tapped.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>CA05 — Mana</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mana enters the battlefield, draw a card.
+{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if a card has entered your graveyard from anywhere this turn.</text>
+    </card>
+    <card>
+      <name>CL01</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>CL01 enters the battlefield tapped.
+{T}: Add {W}, {U}, or {B}.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CL02</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>CL02 enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CL03</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>CL03 enters the battlefield tapped.
+{T}: Add {R}, {G}, or {W}.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CL04</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>CL04 enters the battlefield tapped.
+{T}: Add {U}, {R}, or {W}.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CL05</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>CL05 enters the battlefield tapped.
+{T}: Add {B}, {G}, or {U}.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name></name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>CW08 — 5 MV</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cycle 5 MV or it enters the battlefield, put a +1/+1 counter on another target creature.
+Cycling 2W (2W, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CW10 — Small Removal</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Small Removal deals 3 damage to target attacking or blocking creature. If you’ve discarded a card this turn, deal 5 damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>CU14 — Positive Aura</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has flying and has “Whenever you discard a card, this creature gets +1/+1 until end of turn.”</text>
+    </card>
+    <card>
+      <name>CB09 — Kill Anything</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.
+Breakdown — If you have discarded a card this turn, you may cast this spell as though it had flash.</text>
+    </card>
+    <card>
+      <name>CW14 — Destroy Artichant</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target artifact and one target enchantment.
+Cycling 2W (2W, Discard this card: Draw a card.)
+When you cycle Destroy Artichant, you may destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>CB14 — Positive Trick</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”
+Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CR14 — No Block</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact
+• Target creature can’t block this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CG14 — ArtifactEnchant Destroy</name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.
+Threshold — If seven or more cards are in your graveyard, exile target artifact or enchantment instead.</text>
+    </card>
+    <card>
+      <name></name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name></name>
+      <set rarity="common">ZTS</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
