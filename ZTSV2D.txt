@@ -1701,15 +1701,6 @@
 	        }
 	    },
 	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
-	        }
-	    },
-	    {
 	        "name": "CW08 — 5 MV",
 	        "rarity": "common",
 	        "mana_cost": "{4}{W}",
@@ -1799,24 +1790,6 @@
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/CG14%20%E2%80%94%20ArtifactEnchant%20Destroy.png"
 	        }
 	    },
-	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
-	        }
-	    },
-	    {
-	        "name": "",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/.png"
-	        }
-	    }
 	]
 	[CommonSlot(14)]
 		50 CW01 — 1 MV
@@ -1896,7 +1869,6 @@
 		50 CL03
 		50 CL04
 		50 CL05
-		50 
 		50 CW08 — 5 MV
 		50 CW10 — Small Removal
 		50 CU14 — Positive Aura
@@ -1905,6 +1877,4 @@
 		50 CB14 — Positive Trick
 		50 CR14 — No Block
 		50 CG14 — ArtifactEnchant Destroy
-		50 
-		50 
 	
