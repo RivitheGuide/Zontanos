@@ -1433,7 +1433,7 @@
 	    {
 	        "name": "RZ01",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G/W}/U",
+	        "mana_cost": "{2}{G/W}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ01.png"
@@ -1442,7 +1442,7 @@
 	    {
 	        "name": "RZ02",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R/G}/W",
+	        "mana_cost": "{2}{R/G}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ02.png"
@@ -1451,7 +1451,7 @@
 	    {
 	        "name": "RZ03",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W/U}/B",
+	        "mana_cost": "{2}{W/U}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ03.png"
@@ -1460,7 +1460,7 @@
 	    {
 	        "name": "RZ04",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B/R}/G",
+	        "mana_cost": "{3}{B/R}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ04.png"
@@ -1469,7 +1469,7 @@
 	    {
 	        "name": "RZ05",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{U/B}/R",
+	        "mana_cost": "{4}{U/B}",
 	        "type": "Creature",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/RivitheGuide/Zontanos/main/ZTSV2C-files/RZ05.png"
